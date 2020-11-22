@@ -214,3 +214,8 @@ body {
 .btn-simple:focus {
   color: rgba(255,255,255,1);
 }
+
+.dropdown-show {
+  align-items: center; 
+  text-align: center;
+}

@@ -1,0 +1,26 @@
+.container1 {
+  position: absolute;
+  text-align: center;
+  width: 100%;
+  top: 40%;
+  
+}
+
+.sb a {
+  display: inline-block;
+  color: black;
+  text-decoration: none;
+  margin: 15px 4px;
+  position: relative;
+  -webkit-transition-duration: 0.4s; 
+  -moz-transition-duration: 0.4s;
+  -o-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+}
+
+.sb a:hover {
+  color: #fff;
+  opacity: 0.9;
+  text-shadow: 2px 3px 5px #00d0ff;
+  top: -3px;
+}
