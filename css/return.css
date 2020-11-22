@@ -1,6 +1,14 @@
 .container {
 position: absolute;
-top:  800px;
+top:  800px; 
+right: 400px;
 align-items: center;
 
+}
+
+.card {
+    position: absolute;
+    top:  250px; 
+    right: 850px;
+    align-items: center; 
 }
